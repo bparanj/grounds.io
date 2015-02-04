@@ -5,12 +5,12 @@ en:
     enter: 'enter'
     backspace: ''
   site:
-    title: 'Grounds Beta'
+    title: 'Ruby Plus'
     contact: 'Contact'
     status: 'Status'
     sources: 'Sources'
     about: 'About'
-    copyright: '© 2014-2015 Grounds'
+    copyright: '© 2015 RubyPlus'
   editor:
     error:
       connect: 'Connection with remote server failed. Trying to reconnect...'
