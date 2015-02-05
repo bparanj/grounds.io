@@ -18,7 +18,7 @@ en:
     run: 'Run'
     back: 'Back to editor'
     share: 'Share'
-    console: 'Console'
+    console: 'Output'
     shortcuts: 'Shortcuts'
     select:
       language: 'Language:'
